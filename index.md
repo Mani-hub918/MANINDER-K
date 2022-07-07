@@ -11,12 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Hi
+I am maninder k
+Computer Operator in INDIA
 
-- Bulleted
-- List
+- Maths Backgroud =5 years experience i teaching maths & stats
+- Loves working with numbers & learning new skills
+- Uses exel for everything Such as personal use , student's records
+- Having knowledge of data analysis and visualization tools such as Tableau & Power BI
 
 1. Numbered
 2. List
