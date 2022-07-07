@@ -2,20 +2,14 @@
 
 You can use the [editor on GitHub](https://github.com/Mani-hub918/MANINDER-K/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 Hi
 I am maninder k
 Computer Operator in INDIA
 
-- Maths Backgroud + 5 years experience i teaching maths & stats
+- Maths Backgroud + 5 years experience in teaching maths & stats
 - Loves working with numbers & learning new skills
 - Uses exel for everything Such as personal use , student's records
 - Having knowledge of data analysis and visualization tools such as Tableau & Power BI
@@ -25,7 +19,7 @@ Computer Operator in INDIA
 
 
 
-[Link]() and ![Image](![R](https://user-images.githubusercontent.com/102883867/177753846-7b9a0ba9-5b36-4744-8377-9e4538fccf04.jpg)
+[Link]() and ![Image(![R](https://user-images.githubusercontent.com/102883867/177753846-7b9a0ba9-5b36-4744-8377-9e4538fccf04.jpg)]
 )
 ```
 
