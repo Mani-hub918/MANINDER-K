@@ -15,17 +15,18 @@ Hi
 I am maninder k
 Computer Operator in INDIA
 
-- Maths Backgroud =5 years experience i teaching maths & stats
+- Maths Backgroud + 5 years experience i teaching maths & stats
 - Loves working with numbers & learning new skills
 - Uses exel for everything Such as personal use , student's records
 - Having knowledge of data analysis and visualization tools such as Tableau & Power BI
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
+[Link]() and ![Image](![R](https://user-images.githubusercontent.com/102883867/177753846-7b9a0ba9-5b36-4744-8377-9e4538fccf04.jpg)
+)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
